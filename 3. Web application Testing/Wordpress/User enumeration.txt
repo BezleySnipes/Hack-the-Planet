@@ -1,0 +1,13 @@
+API access:
+
+	https://<in-scope site>/api/wp/v2/users
+
+
+User profile redirection:
+
+	https://<in-scope site>/?autor=(1,2,3......)>
+
+Each user is assigned an sequential ID number when the account is created, if a valid ID number is supplied a redirect to the user profile page is triggered.
+The redirect url will contain the user account name.
+
+ 

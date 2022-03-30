@@ -1,3 +1,0 @@
-API access
-
-https://<in-scope site>/api/wp/v2/users
